@@ -1,3 +1,4 @@
 node_modules/**
 ngrok
 build/**
+**/.DS_Store
